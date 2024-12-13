@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyTunes23.iml" filepath="$PROJECT_DIR$/.idea/MyTunes23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTunesOne/MyTunesOne.iml" filepath="$PROJECT_DIR$/MyTunesOne/MyTunesOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReExamination/ReExamination.iml" filepath="$PROJECT_DIR$/ReExamination/ReExamination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReExamination2Ass/ReExamination2Ass.iml" filepath="$PROJECT_DIR$/ReExamination2Ass/ReExamination2Ass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReExamination3Ass/ReExamination3Ass.iml" filepath="$PROJECT_DIR$/ReExamination3Ass/ReExamination3Ass.iml" />
+    </modules>
+  </component>
+</project>
